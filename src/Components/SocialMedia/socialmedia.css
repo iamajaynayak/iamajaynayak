@@ -1,0 +1,27 @@
+.social-media {
+  width: 40%;
+  box-shadow: 0 4px 8px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-media i {
+  font-size: 2rem;
+  padding: 1em;
+  color: black;
+  transition: ease-in-out 0.3s;
+}
+
+.social-media i:hover {
+  cursor: pointer;
+  color: #4dffd2;
+}
+
+@media screen and (max-width: 958px) {
+  .social-media {
+    width: 90%;
+    margin: 2em auto;
+  }
+}
