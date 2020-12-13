@@ -28,7 +28,7 @@ const SocialMedia = () => (
       target="_blank"
       rel="noreferrer"
     >
-      <i class="fab fa-facebook"></i>
+      <i className="fab fa-facebook"></i>
     </a>
   </div>
 );

@@ -35,13 +35,19 @@ const IndiProject = () => {
               <u>Description</u> : {project.description}
             </span>
             <div className="project-btn">
-              <a className="view-code" href={project.source} target="_blank">
+              <a
+                className="view-code"
+                href={project.source}
+                target="_blank"
+                rel="noreferrer"
+              >
                 View code
               </a>
               <a
                 className="view-project"
                 href={project.projectlink}
                 target="_blank"
+                rel="noreferrer"
               >
                 View Project
               </a>

@@ -42,10 +42,10 @@
   height: 5vh;
   font-size: 1rem;
   color: white;
-  background-color: #4dffd2;
+  background-color: #211f1f;
   border-color: transparent;
   border-radius: 5px;
-  color: black;
+  color: #ffffff;
 }
 .input-submit:hover {
   cursor: pointer;
@@ -64,6 +64,7 @@
   .email input,
   .message input {
     width: 90%;
+    height: 30px;
   }
   .btn-submit {
     width: 90%;
@@ -71,6 +72,7 @@
     justify-content: space-around;
   }
   .input-submit {
+    height: 30px;
     width: 30%;
   }
 }

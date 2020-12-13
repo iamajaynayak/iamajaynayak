@@ -22,10 +22,10 @@ const HomePage = () => (
     <IndiProject />
     <Headings titles={"Skills & Tools I use"} />
     <SkillPage />
-    <Headings titles={"Reach out to me"} id={"contact-id"} />
-    <ContactPage />
     <Headings titles={"About me"} id={"about-id"} />
     <AboutMe />
+    <Headings titles={"Reach out to me"} id={"contact-id"} />
+    <ContactPage />
     <Footer />
   </div>
 );

@@ -14,7 +14,7 @@
 .actual-heading::after {
   position: absolute;
   content: " ";
-  background-color: #4dffd2;
+  background-color: #181818;
   width: 100%;
   height: 0.2em;
   top: 1.6em;

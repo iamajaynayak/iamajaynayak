@@ -10,13 +10,29 @@
 .social-media i {
   font-size: 2rem;
   padding: 1em;
-  color: black;
+
   transition: ease-in-out 0.3s;
 }
 
 .social-media i:hover {
   cursor: pointer;
-  color: #4dffd2;
+  color: #181818;
+}
+
+.fa-github {
+  color: #211f1f;
+}
+.fa-linkedin {
+  color: #0e76a8;
+}
+.fa-whatsapp {
+  color: #4fce5d;
+}
+.fa-instagram {
+  color: #bc2a8d;
+}
+.fa-facebook {
+  color: #3b5998;
 }
 
 @media screen and (max-width: 958px) {

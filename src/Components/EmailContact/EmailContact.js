@@ -33,15 +33,14 @@ class EmailContact extends Component {
 
   render() {
     return (
-      <div className="contact">
+      <form className="contact" onSubmit={this.onFormSubmit}>
         <div className="contact-title">Send a message here</div>
         <div className="email">
           <input
-            placeholder="Email"
             type="email"
+            placeholder="Email"
             onChange={this.onEmailChange}
             id="email"
-            required
           />
         </div>
         <div className="message">
@@ -54,14 +53,9 @@ class EmailContact extends Component {
           />
         </div>
         <div className="btn-submit">
-          <input
-            type="submit"
-            className="input-submit"
-            value="send"
-            onClick={this.onFormSubmit}
-          />
+          <input type="submit" className="input-submit" value="send" />
         </div>
-      </div>
+      </form>
     );
   }
 }
