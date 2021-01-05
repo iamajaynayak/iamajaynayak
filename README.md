@@ -1,6 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="25px">  ![](https://visitor-badge.glitch.me/badge?page_id=iamajaynayak.iamajaynayak)
 
 
+
 <a href="https://www.linkedin.com/in/iamajaynayak/">
   <img align="left" alt="Ajay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
