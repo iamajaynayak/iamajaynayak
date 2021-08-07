@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<b>I'm [Ajay](https://iamajaynayak.tech/), a Front-end JavaScript Developer, Expertise in ReactJs.</b><br />
+<b>I'm [Ajay](https://iamajaynayak.tech/), a Full-Stack JavaScript Developer, Expertise in ReactJs and ExpressJs.</b><br />
 <br />
 <b>View my portfolio 👉</b><a href="https://iamajaynayak.tech">iamajaynayak.tech</a>
 
