@@ -14,30 +14,13 @@
 <br />
 <br />
 
-<b>I'm [Ajay](https://iamajaynayak.tech/), a Full-Stack JavaScript Developer, Expertise in ReactJs and ExpressJs.</b><br />
+<b>I'm [Ajay](https://iamajaynayak.github.io/portfolio/), a Full-Stack Developer with 2+ years of experience in web development</b><br />
 <br />
-<b>View my portfolio 👉</b><a href="https://iamajaynayak.tech">iamajaynayak.tech</a>
 
 
-**Describing myself in 3 lines:**
+**Tech Stack**
 
-- 🔁 Read, Write, Code, Repeat🔁
-- 🏆 Love solving problems that can challenge my way of thinking 
-- ❤ Fond of Learning 
-- ✉ Reach out to me: [@Ajay](https://api.whatsapp.com/send?phone=918638339830)
-
-**Languages and Tools I use:**  
-
-<img align="left"  width="26px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left"  width="26px" alt="react"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img align="left"  width="26px" alt="redux"  src="https://iamajaynayak.tech/static/media/Redux-logo.bfb1cd72.png">
-<img align="left"  width="26px" alt="firebase"  src="https://iamajaynayak.tech/static/media/Firebase-logo.7e4c8fc8.png">
-<img align="left"  width="26px" alt="Datastructure"  src="https://iamajaynayak.tech/static/media/Datastructure-logo.19eb5f56.png">
-<img align="left"  width="26px" alt="heroku"  src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png">
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left"  width="26px" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="git"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- JavaScript, TypeScript, Nodejs
+- SvelteJs, ReactJs, Redux 
+- ExpressJs, Redis,Mongoose, MongoDB
+- TailwindCSS
